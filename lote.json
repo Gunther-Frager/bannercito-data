@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "titulo": "Física Cuántica",
+      "texto": "El entrelazamiento cuántico permite que dos partículas estén conectadas de forma que el estado de una determina instantáneamente el de la otra, sin importar la distancia."
+    },
+    {
+      "titulo": "Gatito Curioso (ASCII)",
+      "texto": "  /\\_/\\\n ( o.o )\n  > ^ <"
+    },
+    {
+      "titulo": "Astronomía Estelar",
+      "texto": "Una estrella de neutrones es tan densa que una sola cucharadita de su materia pesaría aproximadamente 6 mil millones de toneladas en la Tierra."
+    },
+    {
+      "titulo": "Búho Sabio (ASCII)",
+      "texto": "   ,---.\n  / ^ _ ^ \\\n  \\|/\\|/|/\n   ( o o )\n    `---'"
+    },
+    {
+      "titulo": "Cafetera Minimalista (ASCII)",
+      "texto": "   _..._\n  (.---.)\n  |     |\n  '-----'"
+    },
+    {
+      "titulo": "Biología Marina",
+      "texto": "El pulpo común posee tres corazones, dos bombean sangre a las branquias y el tercero al resto del cuerpo."
+    },
+    {
+      "titulo": "Fantasmita (ASCII)",
+      "texto": "   .---.\n  /     \\\n | () () |\n  \\  _  /\n   `--'--"
+    },
+    {
+      "titulo": "Cohete Espacial (ASCII)",
+      "texto": "    /\\\n   /  \\\n  |    |\n  |    |\n  /|/\\|\\\n  \\/\\/\\/"
+    },
+    {
+      "titulo": "Cactus de Escritorio (ASCII)",
+      "texto": "   _ _\n  (_(_)\n    |\n  _ | _\n ( `-' )\n  `---'"
+    },
+    {
+      "titulo": "Computadora Retro (ASCII)",
+      "texto": "  +----------------+\n  |   >_           |\n  |                |\n  +----------------+\n       [====]"
+    }
+  ]
+}

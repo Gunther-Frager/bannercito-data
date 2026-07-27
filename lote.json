@@ -1,33 +1,42 @@
 {
-  "version": 2,
-  "items": [
-    {
-      "titulo": "Cubo 3D Minimalista",
-      "texto": [
-        "    +-------+",
-        "   /       /|",
-        "  +-------+ |",
-        "  |       | +",
-        "  |       |/",
-        "  +-------+"
-      ]
-    },
-    {
-      "titulo": "Terminal / Nodo",
-      "texto": [
-        "  ___  ___",
-        " / _ \\/ __\\",
-        "/ /_\\\\ \\\\",
-        "\\___/ \\__/"
-      ]
-    },
-    {
-      "titulo": "Mensaje del Sistema",
-      "texto": [
-        " > Sincronización OK",
-        " > Arquitectura Offline",
-        " > Modo Bannercito Activo"
-      ]
-    }
-  ]
+    "version": 3,
+    "items": [
+        {
+            "titulo": "Arquitectura de Software",
+            "texto": [
+                "+-----------------------------------+",
+                "|       SISTEMA DE MONITOREO        |",
+                "+-----------------------------------+",
+                "| [x] Node.js      [x] Electron     |",
+                "| [x] Tipos seguros [x] Modular     |",
+                "+-----------------------------------+"
+            ]
+        },
+        {
+            "titulo": "Dominio Funcional",
+            "texto": [
+                "model DomainError =",
+                "    | InvalidState",
+                "    | ConnectionLost",
+                "    | UnauthorizedAccess",
+                "",
+                "// Separando datos de lógica pura."
+            ]
+        },
+        {
+            "titulo": "Servidor Activo",
+            "texto": [
+                "  _         _     _                  ",
+                " | |       | |   (_)                 ",
+                " | |     __| |    _    ___ _ __  ___ ",
+                " | |    / _` |   | |  / _ \\ '_ \\/ __|",
+                " | |___| (_| |   | | |  __/ | | \\__ \\",
+                " |______\\__,_|   |_|  \\___|_| |_|___/"
+            ]
+        },
+        {
+            "titulo": "Notas de Operación",
+            "texto": "Recuerda validar siempre los límites de memoria en procesos concurrentes y mantener sincronizado el estado local con la configuración de persistencia."
+        }
+    ]
 }

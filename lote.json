@@ -1,93 +1,16 @@
 {
-  "version": 2001,
+  "version": 9999,
   "items": [
     {
-      "titulo": "> SYSTEM_DIAGNOSTIC // CORE",
+      "titulo": "> [TEST] REGLA DE ANCHO TOTAL",
       "texto": [
-        "[========================================]",
-        " STATUS  : [ ONLINE / SECURE ]          ",
-        " KERNEL  : ELECTRON v28.0.0-CH          ",
-        " MEMORY  : 8192MB / OPTIMIZED           ",
-        " UPTIME  : 99.98% STABLE                ",
-        "[========================================]"
-      ]
-    },
-    {
-      "titulo": "> ASCII_RADAR_SWEEP",
-      "frameDelay": 160,
-      "frames": [
-        [
-          "        _--[ VIRTUAL RADAR ]--_         ",
-          "      .'      / \\       '.      ",
-          "     /       /   \\        \\     ",
-          "    |       (  O  )        |    ",
-          "     \\       \\   /        /     ",
-          "      '.      \\ /       .'      ",
-          "        ''---_____---''         "
-        ],
-        [
-          "        _--[ VIRTUAL RADAR ]--_         ",
-          "      .'      / | \\     '.      ",
-          "     /       /  |  \\      \\     ",
-          "    |       (  *  )        |    ",
-          "     \\       \\  |  /      /     ",
-          "      '.      \\ | /     .'      ",
-          "        ''---_____---''         "
-        ],
-        [
-          "        _--[ VIRTUAL RADAR ]--_         ",
-          "      .'        | \\     '.      ",
-          "     /          |  \\      \\     ",
-          "    |          ( o )        |    ",
-          "     \\          |  /      /     ",
-          "      '.        | /     .'      ",
-          "        ''---_____---''         "
-        ]
-      ]
-    },
-    {
-      "titulo": "> MATRIX_DATA_STREAM",
-      "frameDelay": 140,
-      "frames": [
-        [
-          " 01100010 01100001 01101110 01101110 ",
-          " [!] SCANNING ASCII SECTOR 0x01...      ",
-          " > 34.87% [|||||||                    ] ",
-          " NET_IO   : 1.24 MB/s (SECURE PIPE)     ",
-          " BUFFER   : FLUSHED & SYNCHRONIZED      "
-        ],
-        [
-          " 01110011 01100101 01100011 01110101 ",
-          " [!] SCANNING ASCII SECTOR 0x02...      ",
-          " > 68.12% [||||||||||||||             ] ",
-          " NET_IO   : 2.85 MB/s (SECURE PIPE)     ",
-          " BUFFER   : FLUSHED & SYNCHRONIZED      "
-        ],
-        [
-          " 01110010 01100101 01100011 01110101 ",
-          " [!] SCANNING ASCII SECTOR 0x03...      ",
-          " > 100.0% [|||||||||||||||||||||||||||] ",
-          " NET_IO   : 3.41 MB/s (SECURE PIPE)     ",
-          " BUFFER   : FLUSHED & SYNCHRONIZED      "
-        ]
-      ]
-    },
-    {
-      "titulo": "> TERMINAL_MATRIX_RAIN",
-      "frameDelay": 120,
-      "frames": [
-        [
-          " 0x01 | ~~~ ACTIVE MATRIX FLOW ~~~ | 01 ",
-          " 0x02 |  Z E N _ G L A S S _ V 2.8   | 02 ",
-          " 0x03 |  CRT_SCANLINE_EFFECT_ON      | 03 ",
-          " 0x04 |  READY FOR NEXT PIPELINE     | 04 "
-        ],
-        [
-          " 0x01 | === ACTIVE MATRIX FLOW === | 01 ",
-          " 0x02 |  Z E N _ G L A S S _ V 2.8   | 02 ",
-          " 0x03 |  CRT_SCANLINE_EFFECT_ON      | 03 ",
-          " 0x04 |  READY FOR NEXT PIPELINE     | 04 "
-        ]
+        "|<------------------ ANCHO TOTAL ------------------>|",
+        "+---------------------------------------------------+",
+        "| IZQ                                           DER |",
+        "| ESTA LINEA DEBE LLEGAR EXACTAMENTE AL BORDE       |",
+        "| SI QUEDA ESPACIO VACIO A LA DERECHA, HAY PADDING  |",
+        "+---------------------------------------------------+",
+        "  COLS: 51 chars exactos en esta matriz de prueba   "
       ]
     }
   ]

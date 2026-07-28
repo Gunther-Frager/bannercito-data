@@ -1,78 +1,93 @@
 {
-  "version": 1001,
+  "version": 2001,
   "items": [
     {
-      "titulo": "> SYS_INIT // BANNERCITO",
+      "titulo": "> SYSTEM_DIAGNOSTIC // CORE",
       "texto": [
-        "=================================",
-        " STATUS   : [ ACTIVE / SECURE ]   ",
-        " ENGINE   : ELECTRON v28+         ",
-        " RENDER   : MONOSPACE CH / CRT    ",
-        "================================="
+        "[========================================]",
+        " STATUS  : [ ONLINE / SECURE ]          ",
+        " KERNEL  : ELECTRON v28.0.0-CH          ",
+        " MEMORY  : 8192MB / OPTIMIZED           ",
+        " UPTIME  : 99.98% STABLE                ",
+        "[========================================]"
       ]
     },
     {
-      "titulo": "> SECURE_TRANSMISSION",
-      "frameDelay": 180,
+      "titulo": "> ASCII_RADAR_SWEEP",
+      "frameDelay": 160,
       "frames": [
         [
-          "[     INITIALIZING SECURE LINK     ]",
-          " > [||                  ] 12%   "
+          "        _--[ VIRTUAL RADAR ]--_         ",
+          "      .'      / \\       '.      ",
+          "     /       /   \\        \\     ",
+          "    |       (  O  )        |    ",
+          "     \\       \\   /        /     ",
+          "      '.      \\ /       .'      ",
+          "        ''---_____---''         "
         ],
         [
-          "[     ESTABLISHING HANDSHAKE       ]",
-          " > [|||||||             ] 45%   "
+          "        _--[ VIRTUAL RADAR ]--_         ",
+          "      .'      / | \\     '.      ",
+          "     /       /  |  \\      \\     ",
+          "    |       (  *  )        |    ",
+          "     \\       \\  |  /      /     ",
+          "      '.      \\ | /     .'      ",
+          "        ''---_____---''         "
         ],
         [
-          "[     DECRYPTING DATA PACKETS      ]",
-          " > [||||||||||||        ] 78%   "
-        ],
-        [
-          "[     SYNCHRONIZATION COMPLETE     ]",
-          " > [||||||||||||||||||||] 100%  "
+          "        _--[ VIRTUAL RADAR ]--_         ",
+          "      .'        | \\     '.      ",
+          "     /          |  \\      \\     ",
+          "    |          ( o )        |    ",
+          "     \\          |  /      /     ",
+          "      '.        | /     .'      ",
+          "        ''---_____---''         "
         ]
       ]
     },
     {
-      "titulo": "> RADAR_ACTIVE_SCAN",
-      "frameDelay": 150,
+      "titulo": "> MATRIX_DATA_STREAM",
+      "frameDelay": 140,
       "frames": [
         [
-          "    _.-'''''-._    ",
-          "  .'  _     _  '.  ",
-          " /   (o)   (o)   \\ ",
-          " |      \\ /      | ",
-          " \\  ._______.  / ",
-          "  '.         .'  ",
-          "    '-------'    "
+          " 01100010 01100001 01101110 01101110 ",
+          " [!] SCANNING ASCII SECTOR 0x01...      ",
+          " > 34.87% [|||||||                    ] ",
+          " NET_IO   : 1.24 MB/s (SECURE PIPE)     ",
+          " BUFFER   : FLUSHED & SYNCHRONIZED      "
         ],
         [
-          "    _.-'''''-._    ",
-          "  .'  _     _  '.  ",
-          " /   (O)   (O)   \\ ",
-          " |      / \\      | ",
-          " \\  ._______.  / ",
-          "  '.         .'  ",
-          "    '-------'    "
+          " 01110011 01100101 01100011 01110101 ",
+          " [!] SCANNING ASCII SECTOR 0x02...      ",
+          " > 68.12% [||||||||||||||             ] ",
+          " NET_IO   : 2.85 MB/s (SECURE PIPE)     ",
+          " BUFFER   : FLUSHED & SYNCHRONIZED      "
         ],
         [
-          "    _.-'''''-._    ",
-          "  .'  _     _  '.  ",
-          " /   (o)   (o)   \\ ",
-          " |      \\ /      | ",
-          " \\  ._______.  / ",
-          "  '.         .'  ",
-          "    '-------'    "
+          " 01110010 01100101 01100011 01110101 ",
+          " [!] SCANNING ASCII SECTOR 0x03...      ",
+          " > 100.0% [|||||||||||||||||||||||||||] ",
+          " NET_IO   : 3.41 MB/s (SECURE PIPE)     ",
+          " BUFFER   : FLUSHED & SYNCHRONIZED      "
         ]
       ]
     },
     {
-      "titulo": "> TELEMETRY_DIAGNOSTICS",
-      "texto": [
-        " CORE_0 : 3.4GHz [||||||||||] 84% ",
-        " CORE_1 : 3.4GHz [|||||||   ] 62% ",
-        " VRAM   : 4096MB [|||||     ] 45% ",
-        " TEMP   : 42.5°C [STABLE]        "
+      "titulo": "> TERMINAL_MATRIX_RAIN",
+      "frameDelay": 120,
+      "frames": [
+        [
+          " 0x01 | ~~~ ACTIVE MATRIX FLOW ~~~ | 01 ",
+          " 0x02 |  Z E N _ G L A S S _ V 2.8   | 02 ",
+          " 0x03 |  CRT_SCANLINE_EFFECT_ON      | 03 ",
+          " 0x04 |  READY FOR NEXT PIPELINE     | 04 "
+        ],
+        [
+          " 0x01 | === ACTIVE MATRIX FLOW === | 01 ",
+          " 0x02 |  Z E N _ G L A S S _ V 2.8   | 02 ",
+          " 0x03 |  CRT_SCANLINE_EFFECT_ON      | 03 ",
+          " 0x04 |  READY FOR NEXT PIPELINE     | 04 "
+        ]
       ]
     }
   ]

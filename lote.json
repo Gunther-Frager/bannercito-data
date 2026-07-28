@@ -1,42 +1,79 @@
 {
-    "version": 3,
-    "items": [
-        {
-            "titulo": "Arquitectura de Software",
-            "texto": [
-                "+-----------------------------------+",
-                "|       SISTEMA DE MONITOREO        |",
-                "+-----------------------------------+",
-                "| [x] Node.js      [x] Electron     |",
-                "| [x] Tipos seguros [x] Modular     |",
-                "+-----------------------------------+"
-            ]
-        },
-        {
-            "titulo": "Dominio Funcional",
-            "texto": [
-                "model DomainError =",
-                "    | InvalidState",
-                "    | ConnectionLost",
-                "    | UnauthorizedAccess",
-                "",
-                "// Separando datos de lógica pura."
-            ]
-        },
-        {
-            "titulo": "Servidor Activo",
-            "texto": [
-                "  _         _     _                  ",
-                " | |       | |   (_)                 ",
-                " | |     __| |    _    ___ _ __  ___ ",
-                " | |    / _` |   | |  / _ \\ '_ \\/ __|",
-                " | |___| (_| |   | | |  __/ | | \\__ \\",
-                " |______\\__,_|   |_|  \\___|_| |_|___/"
-            ]
-        },
-        {
-            "titulo": "Notas de Operación",
-            "texto": "Recuerda validar siempre los límites de memoria en procesos concurrentes y mantener sincronizado el estado local con la configuración de persistencia."
-        }
-    ]
+  "version": 1001,
+  "items": [
+    {
+      "titulo": "> SYS_INIT // BANNERCITO",
+      "texto": [
+        "=================================",
+        " STATUS   : [ ACTIVE / SECURE ]   ",
+        " ENGINE   : ELECTRON v28+         ",
+        " RENDER   : MONOSPACE CH / CRT    ",
+        "================================="
+      ]
+    },
+    {
+      "titulo": "> SECURE_TRANSMISSION",
+      "frameDelay": 180,
+      "frames": [
+        [
+          "[     INITIALIZING SECURE LINK     ]",
+          " > [||                  ] 12%   "
+        ],
+        [
+          "[     ESTABLISHING HANDSHAKE       ]",
+          " > [|||||||             ] 45%   "
+        ],
+        [
+          "[     DECRYPTING DATA PACKETS      ]",
+          " > [||||||||||||        ] 78%   "
+        ],
+        [
+          "[     SYNCHRONIZATION COMPLETE     ]",
+          " > [||||||||||||||||||||] 100%  "
+        ]
+      ]
+    },
+    {
+      "titulo": "> RADAR_ACTIVE_SCAN",
+      "frameDelay": 150,
+      "frames": [
+        [
+          "    _.-'''''-._    ",
+          "  .'  _     _  '.  ",
+          " /   (o)   (o)   \\ ",
+          " |      \\ /      | ",
+          " \\  ._______.  / ",
+          "  '.         .'  ",
+          "    '-------'    "
+        ],
+        [
+          "    _.-'''''-._    ",
+          "  .'  _     _  '.  ",
+          " /   (O)   (O)   \\ ",
+          " |      / \\      | ",
+          " \\  ._______.  / ",
+          "  '.         .'  ",
+          "    '-------'    "
+        ],
+        [
+          "    _.-'''''-._    ",
+          "  .'  _     _  '.  ",
+          " /   (o)   (o)   \\ ",
+          " |      \\ /      | ",
+          " \\  ._______.  / ",
+          "  '.         .'  ",
+          "    '-------'    "
+        ]
+      ]
+    },
+    {
+      "titulo": "> TELEMETRY_DIAGNOSTICS",
+      "texto": [
+        " CORE_0 : 3.4GHz [||||||||||] 84% ",
+        " CORE_1 : 3.4GHz [|||||||   ] 62% ",
+        " VRAM   : 4096MB [|||||     ] 45% ",
+        " TEMP   : 42.5°C [STABLE]        "
+      ]
+    }
+  ]
 }

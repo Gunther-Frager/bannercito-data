@@ -2,18 +2,24 @@
   "version": 1,
   "items": [
     {
-      "titulo": "POLVO DE ESTRELLAS (CARL SAGAN)",
+      "titulo": "CARL SAGAN: SUSTANCIA ESTELAR",
       "frameDelay": 24000,
       "frames": [
         [
           "+---------------------------------------------------+",
           "|\"El cosmos esta dentro de nosotros. Estamos hechos |",
-          "|sustancia estelar. Somos una forma de que el cosmos|",
-          "|se conozca a si mismo.\"                            |",
+          "|de sustancia estelar. Somos una forma de que el    |",
+          "|cosmos se conozca a si mismo.\"                     |",
           "|                                                   |",
           "|                        - Carl Sagan, Cosmos       |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "FORJADOS EN ESTRELLAS",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Cada atomo de carbono en tus huesos y el hierro en |",
@@ -26,7 +32,7 @@
       ]
     },
     {
-      "titulo": "UN PUNTO AZUL PALIDO",
+      "titulo": "CARL SAGAN: PUNTO AZUL PALIDO",
       "frameDelay": 24000,
       "frames": [
         [
@@ -37,7 +43,13 @@
           "|ha existido segun la historia.\"                    |",
           "|                        - Carl Sagan               |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "LA MOTA SOLITARIA",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Nuestra Tierra es solo una mota solitaria en la gra|",
@@ -50,7 +62,35 @@
       ]
     },
     {
-      "titulo": "EL METODO CIENTIFICO",
+      "titulo": "ANIM: WALLPAPER - CUBO 3D ROTATORIO",
+      "frameDelay": 300000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                   +-----------+                   |",
+          "|                  /           /|                   |",
+          "|                 /  CENTRO   / |                   |",
+          "|                +-----------+  |                   |",
+          "|                |  COSMICO  |  +                   |",
+          "|                |           | /                    |",
+          "|                +-----------+/                     |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                     +-------+                     |",
+          "|                    /       /|                     |",
+          "|                   /  (o)  / |                     |",
+          "|                  +-------+  |                     |",
+          "|                  |       |  +                     |",
+          "|                  |       | /                      |",
+          "|                  +-------+/                       |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "CARL SAGAN: EL METODO CIENTIFICO",
       "frameDelay": 24000,
       "frames": [
         [
@@ -61,13 +101,60 @@
           "|nuestra propia falibilidad.\"                        |",
           "|                        - Carl Sagan               |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "AFIRMACIONES EXTRAORDINARIAS",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Afirmaciones extraordinarias requieren pruebas     |",
           "|extraordinarias. Si no se puede verificar ni medir,|",
           "|sigue siendo una mera especulacion en la penumbra  |",
           "|de la imaginacion humana.                          |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "EFECTO ESCRITURA: CURIOSIDAD",
+      "frameDelay": 1200,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|L                                                  |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|La curiosidad                                      |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|La curiosidad es la clave                              |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|La curiosidad es la clave para entender            |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|La curiosidad es la clave para entender el         |",
+          "|multiverso.                                        |",
           "|                                                   |",
           "+---------------------------------------------------+"
         ]
@@ -85,13 +172,70 @@
           "|                                                   |",
           "|El espacio y el tiempo intercambian sus roles.     |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "ESPAGUETIZACION",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Si cayeras en un agujero negro supermasivo, la     |",
           "|espaguetizacion te estiraria atomo por atomo,      |",
           "|mientras verias el futuro entero del universo pasar|",
           "|frente a tus ojos en un instante final.            |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "ANIM: WALLPAPER - GEOMETRIA EN REBOTE",
+      "frameDelay": 300000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "| [*]                                               |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|            [*]                                    |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                        [*]                        |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                    [*]            |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                               [*] |",
           "|                                                   |",
           "+---------------------------------------------------+"
         ]
@@ -109,7 +253,13 @@
           "|procesar la tarjeta grafica de nuestro Universo.   |",
           "|                                                   |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "HUMOR: HEISENBERG OPTIMIZACION",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Y el principio de incertidumbre de Heisenberg es   |",
@@ -133,13 +283,61 @@
           "|tenia apenas 380.000 anos de edad.                 |",
           "|                                                   |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "ESTATICA DE TV Y BIG BANG",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Cuando sintonizas un televisor antiguo en un canal |",
           "|sin senal, cerca del 1% del estatica blanca que ves|",
           "|en pantalla proviene directamente del destello     |",
           "|remanente de la creacion del cosmos.               |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "ANIM: WALLPAPER - CONSTRUCCION MATRIX",
+      "frameDelay": 300000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "| |                                                 |",
+          "| |                                                 |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "| |                   |                             |",
+          "| |                   |                   |         |",
+          "|                     |                   |         |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "| |    +--------------+                   |         |",
+          "| |    | MATRIX CORE  |                   |         |",
+          "|      +--------------+                   |         |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "| |    +--------------+    +--------------+         |",
+          "| |    | MATRIX CORE  | =  | SYSTEM READY |         |",
+          "|      +--------------+    +--------------+         |",
+          "|                                                   |",
           "|                                                   |",
           "+---------------------------------------------------+"
         ]
@@ -157,7 +355,13 @@
           "|desde el pasado hacia el futuro.                   |",
           "|                                                   |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "EL HUEVO Y LA ENTROPIA",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Un huevo cae y se rompe, pero nunca se des-rompe.  |",
@@ -170,7 +374,55 @@
       ]
     },
     {
-      "titulo": "HUMOR: EL GATO DE SCHRODINGER",
+      "titulo": "EFECTO ESCRITURA: CONOCIMIENTO",
+      "frameDelay": 1000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|S                                                  |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Solo                                               |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Solo sabemos                                       |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Solo sabemos una                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Solo sabemos una fraccion                          |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Solo sabemos una fraccion de                         |",
+          "|la realidad.                                       |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "HUMOR: SCHRODINGER Y EL BAR",
       "frameDelay": 24000,
       "frames": [
         [
@@ -181,7 +433,13 @@
           "|                                                   |",
           "|El mozo reusa servirle hasta abrir la puerta.      |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "HUMOR: EL GATO IRRITADO",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Resulta que el gato estaba vivo, pero extremadament|",
@@ -205,13 +463,61 @@
           "|propio sistema estelar.                            |",
           "|                                                   |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "CARL SAGAN: PERDIDA DE ESPACIO",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|\"Si estamos solos en el Universo, seguro seria una |",
           "|terrible perdida de espacio.\"                      |",
           "|                                                   |",
           "|                        - Carl Sagan               |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "ANIM: WALLPAPER - TUNEL DE ONDAS CONCENTRICAS",
+      "frameDelay": 300000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                        .                          |",
+          "|                      .   .                        |",
+          "|                        .                          |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                     . . . .                       |",
+          "|                     .  o  .                       |",
+          "|                     . . . .                       |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                   . . . . . .                     |",
+          "|                   .   (O)   .                     |",
+          "|                   . . . . . .                     |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                 . . . . . . . .                   |",
+          "|                 .   (( O ))   .                   |",
+          "|                 . . . . . . . .                   |",
+          "|                                                   |",
           "|                                                   |",
           "+---------------------------------------------------+"
         ]
@@ -229,7 +535,13 @@
           "|                                                   |",
           "|¿Grandes Filtros, aislamiento o desinteres?        |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "EL BOSQUE OSCURO GALACTICO",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Quizas las civilizaciones avanzadas prefieren no   |",
@@ -253,7 +565,13 @@
           "|liberando fotones gamma de altisima energia.       |",
           "|                                                   |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "EL VIAJE DEL FOTON",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Un foton tarda mas de 100.000 anos en abrirse paso |",
@@ -277,7 +595,13 @@
           "|                                                   |",
           "|El 95% restante es materia y energia oscura.       |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "EL OCEANO INVISIBLE",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Vivimos en un cosmos donde la mayor parte de la    |",
@@ -290,7 +614,40 @@
       ]
     },
     {
-      "titulo": "HUMOR: PROGRAMACION Y FISICA",
+      "titulo": "ANIM: WALLPAPER - GRILLA DINAMICA RESPIRE",
+      "frameDelay": 300000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "| + + + + + + + + + + + + + + + + + + + + + + + + + |",
+          "| + + + + + + + + + + + + + + + + + + + + + + + + + |",
+          "| + + + + + + + + + + + + + + + + + + + + + + + + + |",
+          "| + + + + + + + + + + + + + + + + + + + + + + + + + |",
+          "| + + + + + + + + + + + + + + + + + + + + + + + + + |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "| x x x x x x x x x x x x x x x x x x x x x x x x x |",
+          "| x x x x x x x x x x x x x x x x x x x x x x x x x |",
+          "| x x x x x x x x x x x x x x x x x x x x x x x x x |",
+          "| x x x x x x x x x x x x x x x x x x x x x x x x x |",
+          "| x x x x x x x x x x x x x x x x x x x x x x x x x |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "| # # # # # # # # # # # # # # # # # # # # # # # # # |",
+          "| # # # # # # # # # # # # # # # # # # # # # # # # # |",
+          "| # # # # # # # # # # # # # # # # # # # # # # # # # |",
+          "| # # # # # # # # # # # # # # # # # # # # # # # # # |",
+          "| # # # # # # # # # # # # # # # # # # # # # # # # # |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "HUMOR: BASE 3 BINARIO",
       "frameDelay": 24000,
       "frames": [
         [
@@ -301,7 +658,13 @@
           "|las que no,                                        |",
           "|y las que no esperaban un chiste en base 3.        |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "HUMOR: PROBLEMAS DE FISICA Y DE PROG",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Existen dos problemas complejos en la fisica:      |",
@@ -325,7 +688,13 @@
           "|efecto de la masa y la energia.                    |",
           "|                                                   |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "LA DILATACION DEL TIEMPO",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Cuanto mas rapido te mueves por el espacio, mas    |",
@@ -349,7 +718,13 @@
           "|del Universo observable.                           |",
           "|                                                   |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "EL CEREBRO PENSANDOSE A SI MISMO",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|El cerebro es literalmente un trozo de materia     |",
@@ -362,7 +737,7 @@
       ]
     },
     {
-      "titulo": "HUMOR: LA TERMODINAMICA Y LA HABITACION",
+      "titulo": "HUMOR: HABITACION Y ENTROPIA",
       "frameDelay": 24000,
       "frames": [
         [
@@ -373,7 +748,13 @@
           "|spontaneo de entropia en estricto cumplimiento     |",
           "|de la Segunda Ley de la Termodinamica.             |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "HUMOR: CANSANCIO Y TRABAJO EXTERNO",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Limpiarla requerira un trabajo externo apreciable, |",
@@ -397,7 +778,13 @@
           "|Una cucharadita pesaria 6.000 millones de toneladas|",
           "|                                                   |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "FAROS COSMICOS UNIFORMES",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Algunas giran cientos de veces por segundo,        |",
@@ -410,7 +797,7 @@
       ]
     },
     {
-      "titulo": "CHISPAS DE IMAGINACION (SAGAN)",
+      "titulo": "CARL SAGAN: ALGO INCREIBLE",
       "frameDelay": 24000,
       "frames": [
         [
@@ -421,7 +808,13 @@
           "|                        - Carl Sagan               |",
           "|                                                   |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "CARL SAGAN: IMAGINACION",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|La imaginacion nos llevara a menudo a mundos que   |",
@@ -445,7 +838,13 @@
           "|agujeros negros hace 1.300 millones de anos.       |",
           "|                                                   |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "EL MURMULLO COSMICO EN LIGO",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Esa colision deformo el diametro de la Tierra en   |",
@@ -458,7 +857,7 @@
       ]
     },
     {
-      "titulo": "EL FUTURO Cosmico",
+      "titulo": "FUSION GALACTICA: LACTOMEDA",
       "frameDelay": 24000,
       "frames": [
         [
@@ -469,7 +868,13 @@
           "|'Lactomeda'.                                       |",
           "|                                                   |",
           "+---------------------------------------------------+"
-        ],
+        ]
+      ]
+    },
+    {
+      "titulo": "SIN COLISIONES DIRECTAS",
+      "frameDelay": 24000,
+      "frames": [
         [
           "+---------------------------------------------------+",
           "|Debido a las inmensas distancias vacias entre      |",

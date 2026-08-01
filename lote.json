@@ -2,268 +2,1532 @@
   "version": 1,
   "items": [
     {
-      "titulo": "1. DILATACION TEMPORAL",
-      "frameDelay": 5000,
+      "titulo": "1. POLVO DE ESTRELLAS (CARL SAGAN)",
+      "frameDelay": 12000,
       "frames": [
         [
           "+---------------------------------------------------+",
-          "| Cerca de un agujero negro o viajando a velocidades|",
-          "| cercanas a la luz, el tiempo transcurre mas lento. |",
-          "| Un segundo cerca del horizonte equivale a anos fuera|",
+          "|\"El cosmos esta dentro de nosotros. Estamos hechos |",
+          "|sustancia estelar. Somos una forma de que el cosmos|",
+          "|se conozca a si mismo.\"                            |",
+          "|                                                   |",
+          "|                       - Carl Sagan, Cosmos        |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "| La gravedad deforma el tejido del espacio-tiempo, |",
-          "| haciendo que los relojes vuelen mas despacio en la |",
-          "| superficie de la Tierra comparados con el espacio. |",
+          "|Cada atomo de carbono en tus huesos y el hierro en |",
+          "|tu sangre fueron forjados en el corazon agonizante |",
+          "|de una estrella gigante que exploto hace miles de  |",
+          "|millones de anos.                                  |",
+          "|                       - Carl Sagan                |",
           "+---------------------------------------------------+"
         ]
       ]
     },
     {
-      "titulo": "2. MICELIO Y REDES",
-      "frameDelay": 5000,
+      "titulo": "2. UN PUNTO AZUL PALIDO",
+      "frameDelay": 12000,
       "frames": [
         [
           "+---------------------------------------------------+",
-          "| Los hongos subterraneos conectan arboles lejanos, |",
-          "| compartiendo nutrientes y alertas de plagas por   |",
-          "| medio de una gigantesca red de fibra biologica.   |",
+          "|\"Mira de nuevo ese punto. Eso es aqui. Eso es nuest|",
+          "|hogar. Eso somos nosotros. En el han vivido todos l|",
+          "|que amas, todos los que conoces, cada ser humano qu|",
+          "|ha existido segun la historia.\"                    |",
+          "|                       - Carl Sagan                |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "| El bosque actua como un superorganismo inteligente|",
-          "| donde la informacion quimica viaja silenciosa     |",
-          "| bajo nuestros pies a traves del micelio oculto.   |",
+          "|Nuestra Tierra es solo una mota solitaria en la gra|",
+          "|envolvente penumbra cosmica. En toda esta vastedad |",
+          "|no hay pista de que vaya a venir ayuda de otra part|",
+          "|para salvarnos de nosotros mismos.                 |",
+          "|                                                   |",
           "+---------------------------------------------------+"
         ]
       ]
     },
     {
-      "titulo": "3. ENERGIA DE LAS ESTRELLAS",
-      "frameDelay": 5000,
+      "titulo": "3. EL METODO CIENTIFICO",
+      "frameDelay": 12000,
       "frames": [
         [
           "+---------------------------------------------------+",
-          "| El Sol fusiona cada segundo millones de toneladas |",
-          "| de hidrogeno en helio, liberando una energia pura |",
-          "| que tardo miles de anos en salir desde su nucleo. |",
+          "|\"La ciencia es mas que un cuerpo de conocimientos; |",
+          "|es una forma de pensar. Una manera de interrogar co|",
+          "|escepticismo al universo con la plena conciencia de|",
+          "|nuestra propia falibilidad.\"                       |",
+          "|                       - Carl Sagan                |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "| Cada foton de luz solar que choca contra tu piel  |",
-          "| nacio en el corazon estelar hace un monton de     |",
-          "| tiempo para terminar iluminando tu tarde de hoy.  |",
+          "|Afirmaciones extraordinarias requieren pruebas     |",
+          "|extraordinarias. Si no se puede verificar ni medir,|",
+          "|sigue siendo una mera especulacion en la penumbra  |",
+          "|de la imaginacion humana.                          |",
+          "|                                                   |",
           "+---------------------------------------------------+"
         ]
       ]
     },
     {
-      "titulo": "4. PAUSA COTIDIANA",
-      "frameDelay": 5000,
+      "titulo": "4. HORIZONTE DE SUCESOS",
+      "frameDelay": 12000,
       "frames": [
         [
           "+---------------------------------------------------+",
-          "| No hay prisa que valga un colapso mental. Detenete|",
-          "| un instante, respira hondo y deja que el codigo   |",
-          "| corra solo por unos minutos en segundo plano.     |",
+          "|Un agujero negro deforma la curvatura espacio-tiemp|",
+          "|hasta tal extremo que nada, ni siquiera la luz,    |",
+          "|puede escapar tras cruzar el horizonte de sucesos. |",
+          "|                                                   |",
+          "|El espacio y el tiempo intercambian sus roles.     |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "| La atencion plena en pequenos detalles transforma |",
-          "| un dia pesado en un loop de calma y perspectiva.  |",
-          "| Todo sigue su curso, tomate tu respiro.           |",
+          "|Si cayeras en un agujero negro supermasivo, la     |",
+          "|espaguetizacion te estiraria atomo por atomo,      |",
+          "|mientras verias el futuro entero del universo pasar|",
+          "|frente a tus ojos en un instante final.            |",
+          "|                                                   |",
           "+---------------------------------------------------+"
         ]
       ]
     },
     {
-      "titulo": "5. ALERTA DE SISTEMA",
-      "frameDelay": 5000,
+      "titulo": "5. HUMOR: BUG COSMICO",
+      "frameDelay": 12000,
       "frames": [
         [
           "+---------------------------------------------------+",
-          "| [AVISO CRITICO] Levantate a tomar agua de una vez |",
-          "| o el teclado terminara absorbiendo lo que queda   |",
-          "| de tu alma biologica en este preciso ciclo.       |",
+          "|HUMOR CIENTIFICO #1:                               |",
+          "|A veces me pregunto si la velocidad de la luz c    |",
+          "|es solo la velocidad maxima de refresco que pudo   |",
+          "|procesar la tarjeta grafica de nuestro Universo.   |",
+          "|                                                   |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "| [DIAGNOSTICO] Postura detectada como encorvado.   |",
-          "| Estira la espalda, afloja los hombros y parpadea  |",
-          "| un par de veces frente a esta pantalla luminosa.  |",
+          "|Y el principio de incertidumbre de Heisenberg es   |",
+          "|claramente un sistema de optimizacion de memoria:  |",
+          "|no renderices posicion y momento exacto si nadie   |",
+          "|lo esta observando activamente.                    |",
+          "|                                                   |",
           "+---------------------------------------------------+"
         ]
       ]
     },
     {
-      "titulo": "6. ANIMACION FLUIDA",
+      "titulo": "6. LA RADIACION DE FONDO",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|El Fondo Cosmico de Microondas (CMB) es el eco     |",
+          "|termico del Big Bang. Esta luz viaja libre desde   |",
+          "|hace 13.800 millones de anos, cuando el universo   |",
+          "|tenia apenas 380.000 anos de edad.                 |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Cuando sintonizas un televisor antiguo en un canal |",
+          "|sin senal, cerca del 1% del estatica blanca que ves|",
+          "|en pantalla proviene directamente del destello     |",
+          "|remanente de la creacion del cosmos.               |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "7. ENTROPIA Y TIEMPO",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|La Segunda Ley de la Termodinamica establece que la|",
+          "|entropia (el desorden) de un sistema aislado siempr|",
+          "|aumenta. Esta asimetria define la flecha del tiempo|",
+          "|desde el pasado hacia el futuro.                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Un huevo cae y se rompe, pero nunca se des-rompe.  |",
+          "|El universo camina inexorablemente desde un estado |",
+          "|de bajo desorden hacia la muerte termica global,   |",
+          "|donde la energia quedara dispersa.                 |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "8. HUMOR: EL GATO DE SCHRODINGER",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|HUMOR CIENTIFICO #2:                               |",
+          "|El Gato de Schrodinger entra a un bar...           |",
+          "|Y no entra a un bar.                               |",
+          "|                                                   |",
+          "|El mozo reusa servirle hasta abrir la puerta.      |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Resulta que el gato estaba vivo, pero extremadament|",
+          "|irritado por la falta de ventilacion y por los     |",
+          "|experimentos mentales de los fisicos teoricos.     |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "9. EXOPLANETAS Y VIDA",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|Hemos descubierto mas de 5.000 mundos orbitando    |",
+          "|otras estrellas. Desde gigantes gaseosos calientes |",
+          "|hasta mundos rocosos en la zona habitable de su    |",
+          "|propio sistema estelar.                            |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|\"Si estamos solos en el Universo, seguro seria una |",
+          "|terrible perdida de espacio.\"                      |",
+          "|                                                   |",
+          "|                       - Carl Sagan                |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "10. LA PARADOJA DE FERMI",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|Hay miles de millones de estrellas mas viejas que  |",
+          "|el Sol en nuestra galaxia. Si la vida inteligente  |",
+          "|es comun, ¿donde esta todo el mundo?               |",
+          "|                                                   |",
+          "|¿Grandes Filtros, aislamiento o desinteres?        |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Quizas las civilizaciones avanzadas prefieren no   |",
+          "|emitir ondas de radio estruendosas al espacio,     |",
+          "|sabiendo que el vecindario galactico puede ser     |",
+          "|un bosque oscuro y misterioso.                     |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "11. FUSION NUCLEAR Y EL SOL",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|En el nucleo del Sol, las presiones y temperaturas |",
+          "|extremas obligan a los protones a vencer la        |",
+          "|repulsion electromagnetica y fusionarse en helio,  |",
+          "|liberando fotones gamma de altisima energia.       |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Un foton tarda mas de 100.000 anos en abrirse paso |",
+          "|a traves de la densa zona radiativa del Sol,       |",
+          "|pero solo tarda 8 minutos en cruzar el espacio     |",
+          "|vacio para tocar tus ojos.                         |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "12. MATERIA Y ENERGIA OSCURA",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|Toda la materia ordinaria que vemos (estrellas,    |",
+          "|planetas, gas, seres vivos) constituye apenas el 5%|",
+          "|del contenido total del Universo.                  |",
+          "|                                                   |",
+          "|El 95% restante es materia y energia oscura.       |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Vivimos en un cosmos donde la mayor parte de la    |",
+          "|realidad nos resulta completamente invisible e     |",
+          "|imperceptible por los sentidos ordinarios.         |",
+          "|Un vasto oceano por explorar.                      |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "13. HUMOR: PROGRAMACION Y FISICA",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|HUMOR CIENTIFICO #3:                               |",
+          "|Hay 10 tipos de personas en el mundo:              |",
+          "|Las que entienden el sistema binario,              |",
+          "|las que no,                                        |",
+          "|y las que no esperaban un chiste en base 3.        |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Existen dos problemas complejos en la fisica:      |",
+          "|1) La gravedad cuantica.                           |",
+          "|2) Nombrar variables de manera descriptiva.        |",
+          "|3) Los errores por desviacion de un elemento (off-b|",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "14. LA TEORIA DE LA RELATIVIDAD",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|Einstein demostro que el espacio y el tiempo no son|",
+          "|escenarios fijos e inmutables, sino una trama      |",
+          "|dinamica y flexible que se estira y curva por      |",
+          "|efecto de la masa y la energia.                    |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Cuanto mas rapido te mueves por el espacio, mas    |",
+          "|lento te desplazas a traves del tiempo.            |",
+          "|A la velocidad de la luz, el tiempo se detiene     |",
+          "|por completo para el viajero.                      |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "15. LA MARAVILLA DE LA NEUROCIENCIA",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|Un cerebro humano contiene cerca de 86.000 millones|",
+          "|de neuronas, con mas de 100 billones de conexiones |",
+          "|sinapticas. Es la estructura conocida mas compleja |",
+          "|del Universo observable.                           |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|El cerebro es literalmente un trozo de materia     |",
+          "|organica que aprendio a pensarse a si misma,       |",
+          "|a contemplar las estrellas y a descifrar las       |",
+          "|leyes de la naturaleza.                            |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "16. HUMOR: LA TERMODINAMICA Y LA HABITACION",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|HUMOR CIENTIFICO #4:                               |",
+          "|No, mi habitacion no esta desordenada.             |",
+          "|Simplemente esta experimentando un aumento         |",
+          "|spontaneo de entropia en estricto cumplimiento     |",
+          "|de la Segunda Ley de la Termodinamica.             |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Limpiarla requerira un trabajo externo apreciable, |",
+          "|lo que aumentaria la entropia total de mi cuerpo   |",
+          "|y provocaria un estado agudo de cansancio.         |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "17. PULSARES Y ESTRELLAS DE NEUTRONES",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|Cuando una estrella masiva colapsa, puede formar   |",
+          "|una estrella de neutrones: una esfera de solo 20 km|",
+          "|de diametro pero con mas masa que nuestro Sol.     |",
+          "|Una cucharadita pesaria 6.000 millones de toneladas|",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Algunas giran cientos de veces por segundo,        |",
+          "|emitiendo haces de radiacion como faros cosmicos   |",
+          "|ultra precisos. Se les conoce como Pulsares.       |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "18. CHISPAS DE IMAGINACION (SAGAN)",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|\"En algun lugar, algo increible esta esperando     |",
+          "|ser conocido.\"                                     |",
+          "|                                                   |",
+          "|                       - Carl Sagan                |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|La imaginacion nos llevara a menudo a mundos que   |",
+          "|nunca existieron. Pero sin ella, no iremos a       |",
+          "|ninguna parte.                                     |",
+          "|                       - Carl Sagan                |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "19. LAS ONDAS GRAVITACIONALES",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|En 2015, LIGO detecto por primera vez ondas        |",
+          "|gravitacionales: ondas en el tejido mismo del      |",
+          "|espacio-tiempo producidas por la colision de dos   |",
+          "|agujeros negros hace 1.300 millones de anos.       |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Esa colision deformo el diametro de la Tierra en   |",
+          "|una fraccion menor al tamano de un proton,         |",
+          "|pero nuestros sensores fueron lo suficientemente   |",
+          "|precisos para 'escuchar' el murmullo del cosmos.   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "20. EL FUTURO Cosmico",
+      "frameDelay": 12000,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|En unos 4.500 millones de anos, la galaxia de      |",
+          "|Andromeda colisionara con nuestra Via Lactea.      |",
+          "|Formaran una gigante galaxia eliptica apodada      |",
+          "|'Lactomeda'.                                       |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|Debido a las inmensas distancias vacias entre      |",
+          "|las estrellas, es casi seguro que ninguna estrella |",
+          "|chocara directamente con otra durante la fusion.   |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "21. ANIM: MODELO ATOMICO",
+      "frameDelay": 100,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                          e                        |",
+          "|                                                   |",
+          "|                        (O)                        |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                e                  |",
+          "|                        (O)                        |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                        (O)         e              |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                        (O)                        |",
+          "|                                e                  |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                        (O)                        |",
+          "|                                                   |",
+          "|                          e                        |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                        (O)                        |",
+          "|                    e                              |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                e       (O)                        |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                    e                              |",
+          "|                        (O)                        |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "22. ANIM: AGUJERO NEGRO EN ROTACION",
+      "frameDelay": 90,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                      )  #                         |",
+          "|                    ((  ###  ((                    |",
+          "|                         #  )                      |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                      \\  #                         |",
+          "|                    //  ###  //                    |",
+          "|                         #  \\                      |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                      -  #                         |",
+          "|                    --  ###  --                    |",
+          "|                         #  -                      |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                      /  #                         |",
+          "|                    \\\\  ###  \\\\                    |",
+          "|                         #  /                      |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                      (  #                         |",
+          "|                    ))  ###  ))                    |",
+          "|                         #  (                      |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                      /  #                         |",
+          "|                    \\\\  ###  \\\\                    |",
+          "|                         #  /                      |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                      -  #                         |",
+          "|                    --  ###  --                    |",
+          "|                         #  -                      |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                      \\  #                         |",
+          "|                    //  ###  //                    |",
+          "|                         #  \\                      |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "23. ANIM: ADN HELICE DOBLE",
       "frameDelay": 120,
       "frames": [
         [
           "+---------------------------------------------------+",
-          "|                                                   |",
-          "|                     * * * *                       |",
-          "|                   *         *                     |",
-          "|                  *     .     *                    |",
-          "|                   *         *                     |",
-          "|                     * * * *                       |",
-          "|                                                   |",
+          "|                      o-----o                      |",
+          "|                        o-o                        |",
+          "|                         O                         |",
+          "|                        o-o                        |",
+          "|                      o-----o                      |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|                                                   |",
-          "|                     . . . .                       |",
-          "|                   .    *    .                     |",
-          "|                  .   * * *   .                    |",
-          "|                   .    *    .                     |",
-          "|                     . . . .                       |",
-          "|                                                   |",
+          "|                       o---o                       |",
+          "|                        o-o                        |",
+          "|                         O                         |",
+          "|                       o---o                       |",
+          "|                      o-----o                      |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|                                                   |",
-          "|                     o o o o                       |",
-          "|                   o    .    o                     |",
-          "|                  o   . * .   o                    |",
-          "|                   o    .    o                     |",
-          "|                     o o o o                       |",
-          "|                                                   |",
+          "|                        o-o                        |",
+          "|                      o-----o                      |",
+          "|                         O                         |",
+          "|                      o-----o                      |",
+          "|                        o-o                        |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|                                                   |",
-          "|                     O O O O                       |",
-          "|                   O    o    O                     |",
-          "|                  O   o . o   O                    |",
-          "|                   O    o    O                     |",
-          "|                     O O O O                       |",
-          "|                                                   |",
+          "|                         O                         |",
+          "|                      o-----o                      |",
+          "|                        o-o                        |",
+          "|                      o-----o                      |",
+          "|                         O                         |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|                                                   |",
-          "|                     # # # #                       |",
-          "|                   #    O    #                     |",
-          "|                  #   O o O   #                    |",
-          "|                   #    O    #                     |",
-          "|                     # # # #                       |",
-          "|                                                   |",
+          "|                        o-o                        |",
+          "|                       o---o                       |",
+          "|                         O                         |",
+          "|                       o---o                       |",
+          "|                        o-o                        |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|                                                   |",
-          "|                     # # # #                       |",
-          "|                   #    O    #                     |",
-          "|                  #   O o O   #                    |",
-          "|                   #    O    #                     |",
-          "|                     # # # #                       |",
-          "|                                                   |",
+          "|                       o---o                       |",
+          "|                        o-o                        |",
+          "|                         O                         |",
+          "|                        o-o                        |",
+          "|                       o---o                       |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|                                                   |",
-          "|                     O O O O                       |",
-          "|                   O    o    O                     |",
-          "|                  O   o . o   O                    |",
-          "|                   O    o    O                     |",
-          "|                     O O O O                       |",
-          "|                                                   |",
+          "|                      o-----o                      |",
+          "|                         O                         |",
+          "|                        o-o                        |",
+          "|                         O                         |",
+          "|                      o-----o                      |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|                                                   |",
-          "|                     o o o o                       |",
-          "|                   o    .    o                     |",
-          "|                  o   . * .   o                    |",
-          "|                   o    .    o                     |",
-          "|                     o o o o                       |",
-          "|                                                   |",
+          "|                      o-----o                      |",
+          "|                        o-o                        |",
+          "|                       o---o                       |",
+          "|                        o-o                        |",
+          "|                      o-----o                      |",
           "+---------------------------------------------------+"
         ]
       ]
     },
     {
-      "titulo": "7. MECANICA CUANTICA",
-      "frameDelay": 5000,
+      "titulo": "24. ANIM: ESCANER DE RADAR Cosmico",
+      "frameDelay": 100,
       "frames": [
         [
           "+---------------------------------------------------+",
-          "| El entrelazamiento cuantico permite que dos       |",
-          "| particulas compartan estado instantaneamente, sin |",
-          "| importar la distancia colosal que las separe.     |",
+          "|                         /                         |",
+          "|                        /                          |",
+          "|                       O                           |",
+          "|                                                   |",
+          "|                                                   |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "| A nivel atomico, el universo es una probabilidad  |",
-          "| constante donde nada toma una forma definitiva    |",
-          "| hasta que alguien decide observarlo fijamente.    |",
+          "|                         |                         |",
+          "|                         |                         |",
+          "|                       O |                         |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                          \\                        |",
+          "|                           \\                       |",
+          "|                       O    \\                      |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                            ------                 |",
+          "|                       O ----------                |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                       O    /                      |",
+          "|                           /                       |",
+          "|                          /                        |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                       O |                         |",
+          "|                         |                         |",
+          "|                         |                         |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                       O/                          |",
+          "|                       /                           |",
+          "|                      /                            |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                   ------                          |",
+          "|                ---O                               |",
+          "|                                                   |",
+          "|                                                   |",
           "+---------------------------------------------------+"
         ]
       ]
     },
     {
-      "titulo": "8. FAUNA CURIOSA",
-      "frameDelay": 5000,
+      "titulo": "25. ANIM: EXPLOSION DE SUPERNOVA",
+      "frameDelay": 110,
       "frames": [
         [
           "+---------------------------------------------------+",
-          "| Los cuervos poseen una memoria facial envidiable; |",
-          "| recuerdan rostros humanos durante anos y pueden   |",
-          "| transmitir rencores o favores a otras generaciones|",
+          "|                                                   |",
+          "|                                                   |",
+          "|                         .                         |",
+          "|                                                   |",
+          "|                                                   |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "| Los pulpos tienen tres corazones y su sangre es   |",
-          "| de tono azulado debido a que utilizan hemocianina |",
-          "| basada en cobre en lugar de hierro para el oxigeno|",
+          "|                                                   |",
+          "|                                                   |",
+          "|                        (*)                        |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                        /|\\                        |",
+          "|                       --O--                       |",
+          "|                        \\|/                        |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                       \\  |  /                     |",
+          "|                        \\ | /                      |",
+          "|                      --- O ---                    |",
+          "|                        / | \\                      |",
+          "|                       /  |  \\                     |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                    .   \\ | /   .                  |",
+          "|                      *  \\|/  *                    |",
+          "|                    ---  ( )  ---                  |",
+          "|                      *  /|\\  *                    |",
+          "|                    .   / | \\   .                  |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                  *   .  . .  .   *                |",
+          "|                    .   *   *   .                  |",
+          "|                  .  * (     ) *  .                |",
+          "|                    .   *   *   .                  |",
+          "|                  *   .  . .  .   *                |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                    *   .   .   *                  |",
+          "|                  .       .       .                |",
+          "|                    .   .   .   .                  |",
+          "|                  .       .       .                |",
+          "|                    *   .   .   *                  |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                      .       .                    |",
+          "|                                                   |",
+          "|                         .                         |",
+          "|                                                   |",
+          "|                      .       .                    |",
           "+---------------------------------------------------+"
         ]
       ]
     },
     {
-      "titulo": "9. FILOSOFIA DE TRABAJO",
-      "frameDelay": 5000,
+      "titulo": "26. ANIM: ONDA QUANTICA EN PROPAGACION",
+      "frameDelay": 80,
       "frames": [
         [
           "+---------------------------------------------------+",
-          "| Hacer las cosas bien y con elegancia requiere     |",
-          "| paciencia y tolerancia al error en cada iteracion.|",
-          "| Cada bug superado es un nivel mas de experiencia. |",
+          "|          ^^^^^          ^^^^^^          ^^^^^     |",
+          "|        ^^     ^        ^      ^        ^     ^^   |",
+          "|~~     ~        ~~     ~        ~     ~~        ~  |",
+          "|  vvvvv           vvvvv          vvvvv           vv|",
+          "|                                                   |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "| El codigo limpio es como una buena conversacion:  |",
-          "| se entiende sin esfuerzo y deja espacio para      |",
-          "| disfrutar el proceso creativo sin fricciones.     |",
+          "|        ^^^^^          ^^^^^^          ^^^^^       |",
+          "|      ^^     ^        ^      ^        ^     ^^     |",
+          "|     ~        ~~     ~        ~     ~~        ~    |",
+          "|vvvvv           vvvvv          vvvvv           vvvv|",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|      ^^^^^          ^^^^^^          ^^^^^         |",
+          "|    ^^     ^        ^      ^        ^     ^^       |",
+          "|   ~        ~~     ~        ~     ~~        ~     ~|",
+          "|vvv           vvvvv          vvvvv           vvvvv |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|    ^^^^^          ^^^^^^          ^^^^^           |",
+          "|  ^^     ^        ^      ^        ^     ^^       ^^|",
+          "| ~        ~~     ~        ~     ~~        ~     ~  |",
+          "|v           vvvvv          vvvvv           vvvvv   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|  ^^^^^          ^^^^^^          ^^^^^           ^^|",
+          "|^^     ^        ^      ^        ^     ^^       ^^  |",
+          "|        ~~     ~        ~     ~~        ~     ~    |",
+          "|          vvvvv          vvvvv           vvvvv     |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|^^^^^          ^^^^^^          ^^^^^           ^^^^|",
+          "|     ^        ^      ^        ^     ^^       ^^    |",
+          "|      ~~     ~        ~     ~~        ~     ~      |",
+          "|        vvvvv          vvvvv           vvvvv       |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|^^^          ^^^^^^          ^^^^^           ^^^^^ |",
+          "|   ^        ^      ^        ^     ^^       ^^     ^|",
+          "|    ~~     ~        ~     ~~        ~     ~        |",
+          "|      vvvvv          vvvvv           vvvvv         |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|^          ^^^^^^          ^^^^^           ^^^^^   |",
+          "| ^        ^      ^        ^     ^^       ^^     ^  |",
+          "|  ~~     ~        ~     ~~        ~     ~        ~~|",
+          "|    vvvvv          vvvvv           vvvvv           |",
+          "|                                                   |",
           "+---------------------------------------------------+"
         ]
       ]
     },
     {
-      "titulo": "10. ONDA EXPANSIVA",
+      "titulo": "27. ANIM: DESTELLO DE PULSAR",
       "frameDelay": 90,
       "frames": [
         [
           "+---------------------------------------------------+",
           "|                                                   |",
           "|                                                   |",
-          "|                         ( )                       |",
+          "|  =======================*=======================  |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|          ==========                               |",
+          "|                    =====                          |",
+          "|                         =====                     |",
+          "|                              =====                |",
+          "|                                   =====           |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                         =                         |",
+          "|                         =                         |",
+          "|                         =                         |",
+          "|                         =                         |",
+          "|                         =                         |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                              ==========           |",
+          "|                         =====                     |",
+          "|                    =====*                         |",
+          "|               =====                               |",
+          "|          =====                                    |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                              ===================  |",
+          "|  =======================*====                     |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|          ==========                               |",
+          "|                    =====                          |",
+          "|                         =====                     |",
+          "|                              =====                |",
+          "|                                   =====           |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                        ==                         |",
+          "|                         =                         |",
+          "|                         =                         |",
+          "|                         =                         |",
+          "|                         =                         |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                              ==========           |",
+          "|                         =====                     |",
+          "|                    =====*                         |",
+          "|               =====                               |",
+          "|          =====                                    |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "28. ANIM: DESPEGUE DE COHETE",
+      "frameDelay": 100,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                         ^                         |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                         ^                         |",
+          "|                         |                         |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|                         ^                         |",
+          "|                         |                         |",
+          "|                         H                         |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                         ^                         |",
+          "|                         |                         |",
+          "|                         H                         |",
+          "|                        /!\\                        |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                         ^                         |",
+          "|                         |                         |",
+          "|                         H                         |",
+          "|                        /!\\                        |",
+          "|                         *                         |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                         |                         |",
+          "|                         H                         |",
+          "|                        /!\\                        |",
+          "|                         *                         |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                         H                         |",
+          "|                        /!\\                        |",
+          "|                         *                         |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                        /!\\                        |",
+          "|                         *                         |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "29. ANIM: ERUPCION SOLAR",
+      "frameDelay": 110,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                       .---.                       |",
+          "|                      /     \\                      |",
+          "|                     |   O   |                     |",
+          "|                      \\     /                      |",
+          "|                       '---'                       |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                      ..---..                      |",
+          "|                     ./     \\.                     |",
+          "|                     |   O   |)                    |",
+          "|                     .\\     /.                     |",
+          "|                      ''---''                      |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                     . .---. .                     |",
+          "|                     ./     \\..                    |",
+          "|                    (|   O   |==                   |",
+          "|                     .\\     /''                    |",
+          "|                     . '---' .                     |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                      ..---..                      |",
+          "|                     ./     \\                      |",
+          "|                   |   O   |  == >                 |",
+          "|                     .\\     /                      |",
+          "|                      ''---''                      |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                       .---.                       |",
+          "|                      /     \\                      |",
+          "|                 |   O   |     - - >               |",
+          "|                      \\     /                      |",
+          "|                       '---'                       |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                       .---.                       |",
+          "|                      /     \\                      |",
+          "|                |   O   |        .  .              |",
+          "|                      \\     /                      |",
+          "|                       '---'                       |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "30. ANIM: LLUVIA DE CODIGO MATRIX",
+      "frameDelay": 90,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|Z  :  X     1  :  0        1  .  :  1  .  .     #  |",
+          "|   Y           Z        .     :  0     :  :        |",
+          "|         .           .  :     X        0  #  .     |",
+          "|         :           :  Z                    :     |",
+          "|         Y           0                       X     |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|:  .  :     :  .  :        :     .  :           :  |",
+          "|Z  :  1     X  :  1        X  .  :  Z  .  .     Z  |",
+          "|   X           X        .     :  Z     :  :        |",
+          "|         .           .  :     Z        0  Y  .     |",
+          "|         :           :  Z                    :     |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|.     .     .     .        .        .           .  |",
+          "|:  .  :     :  .  :        :     .  :           :  |",
+          "|1  :  Z     1  :  #        #  .  :  Z  .  .     Z  |",
+          "|   Y           1        .     :  Z     :  :        |",
+          "|         .           .  :     X        Y  1  .     |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|         0           0                       X     |",
+          "|.     .     .     .        .        .           .  |",
+          "|:  .  :     :  .  :        :     .  :           :  |",
+          "|X  :  1     X  :  X        1  .  :  Z  .  .     1  |",
+          "|   0           #        .     :  Y     :  :        |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|         :           :  X                    :     |",
+          "|         #           1                       Z     |",
+          "|.     .     .     .        .        .           .  |",
+          "|:  .  :     :  .  :        :     .  :           :  |",
+          "|Z  :  #     Z  :  #        1  .  :  1  .  .     Y  |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|         .           .  :     Y        #  Y  .     |",
+          "|         :           :  Z                    :     |",
+          "|         Y           X                       #     |",
+          "|.     .     .     .        .        .           .  |",
+          "|:  .  :     :  .  :        :     .  :           :  |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|   X           1        .     :  0     :  :        |",
+          "|         .           .  :     0        0  1  .     |",
+          "|         :           :  #                    :     |",
+          "|         1           Y                       Z     |",
+          "|.     .     .     .        .        .           .  |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|1  :  #     0  :  #        Y  .  :  0  .  .     Z  |",
+          "|   Z           #        .     :  Y     :  :        |",
+          "|         .           .  :     X        Z  Z  .     |",
+          "|         :           :  #                    :     |",
+          "|         Y           Y                       0     |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "31. ANIM: ANILLOS DE SATURNO",
+      "frameDelay": 120,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                        .--.                       |",
+          "|                    .-'      '-.                   |",
+          "|                   (====  O  ====)                 |",
+          "|                    '-.      .-'                   |",
+          "|                        '--'                       |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                        .--.                       |",
+          "|                    .=========.                    |",
+          "|                   (      O    )                   |",
+          "|                    '========='                    |",
+          "|                        '--'                       |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                        .--.                       |",
+          "|                    / ======= \\                    |",
+          "|                   (    (O)    )                   |",
+          "|                    \\ ======= /                    |",
+          "|                        '--'                       |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                        .--.                       |",
+          "|                    .-'  |   '-.                   |",
+          "|                   (====(O)====)                   |",
+          "|                    '-.  |   .-'                   |",
+          "|                        '--'                       |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                        .--.                       |",
+          "|                    \\ ======= /                    |",
+          "|                   (    (O)    )                   |",
+          "|                    / ======= \\                    |",
+          "|                        '--'                       |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                        .--.                       |",
+          "|                    .=========.                    |",
+          "|                   (      O    )                   |",
+          "|                    '========='                    |",
+          "|                        '--'                       |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "32. ANIM: CUBO 3D EN ROTACION",
+      "frameDelay": 100,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                      +------+                     |",
+          "|                     /      /|                     |",
+          "|                    +------+ |                     |",
+          "|                    |      | +                     |",
+          "|                    |      |/                      |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                       +------+                    |",
+          "|                      /      /|                    |",
+          "|                     +------+ |                    |",
+          "|                     |      | +                    |",
+          "|                     |      |/                     |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                        +------+                   |",
+          "|                       /      /|                   |",
+          "|                      +------+ |                   |",
+          "|                      |      | +                   |",
+          "|                      |      |/                    |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                      +------+                     |",
+          "|                     /|     /|                     |",
+          "|                    +-+----+ |                     |",
+          "|                    | |    | |                     |",
+          "|                    | +----+ |                     |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                     +------+                      |",
+          "|                    /      /|                      |",
+          "|                   +------+ |                      |",
+          "|                   |      | +                      |",
+          "|                   |      |/                       |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                    +------+                       |",
+          "|                   /      /|                       |",
+          "|                   +------+ |                      |",
+          "|                   |      | +                      |",
+          "|                   |      |/                       |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                     +------+                      |",
+          "|                     |      |                      |",
+          "|                     +------+                      |",
+          "|                     |      |                      |",
+          "|                     +------+                      |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                      +------+                     |",
+          "|                     /      /|                     |",
+          "|                    +------+ |                     |",
+          "|                    |      | +                     |",
+          "|                    |      |/                      |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "33. ANIM: VIAJE POR AGUJERO DE GUSANO",
+      "frameDelay": 90,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                ( ( ( (  .  ) ) ) )                |",
+          "|                 ( ( (   .   ) ) )                 |",
+          "|                  ( (    .    ) )                  |",
+          "|                   (     .     )                   |",
+          "|                         .                         |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                 ( ( (   O   ) ) )                 |",
+          "|                  ( (    .    ) )                  |",
+          "|                   (     .     )                   |",
+          "|                         .                         |",
+          "|                ( ( ( (  .  ) ) ) )                |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                  ( (    O    ) )                  |",
+          "|                   (     .     )                   |",
+          "|                         .                         |",
+          "|                ( ( ( (  .  ) ) ) )                |",
+          "|                 ( ( (   .   ) ) )                 |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                   (     O     )                   |",
+          "|                         .                         |",
+          "|                ( ( ( (  .  ) ) ) )                |",
+          "|                 ( ( (   .   ) ) )                 |",
+          "|                  ( (    .    ) )                  |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                         O                         |",
+          "|                ( ( ( (  .  ) ) ) )                |",
+          "|                 ( ( (   .   ) ) )                 |",
+          "|                  ( (    .    ) )                  |",
+          "|                   (     .     )                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                ( ( ( (  O  ) ) ) )                |",
+          "|                 ( ( (   .   ) ) )                 |",
+          "|                  ( (    .    ) )                  |",
+          "|                   (     .     )                   |",
+          "|                         .                         |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "34. ANIM: MONITOR DE PULSO CARDIACO",
+      "frameDelay": 90,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|    ^                                              |",
+          "|      /                                            |",
+          "|---------------------------------------------------|",
+          "|   \\                                               |",
+          "|     v                                             |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|          ^                                        |",
+          "|            /                                      |",
+          "|---------------------------------------------------|",
+          "|         \\                                         |",
+          "|           v                                       |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                ^                                  |",
+          "|                  /                                |",
+          "|---------------------------------------------------|",
+          "|               \\                                   |",
+          "|                 v                                 |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                      ^                            |",
+          "|                        /                          |",
+          "|---------------------------------------------------|",
+          "|                     \\                             |",
+          "|                       v                           |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                            ^                      |",
+          "|                              /                    |",
+          "|---------------------------------------------------|",
+          "|                           \\                       |",
+          "|                             v                     |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                  ^                |",
+          "|                                    /              |",
+          "|---------------------------------------------------|",
+          "|                                 \\                 |",
+          "|                                   v               |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                        ^          |",
+          "|                                          /        |",
+          "|---------------------------------------------------|",
+          "|                                       \\           |",
+          "|                                         v         |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                              ^    |",
+          "|                                                /  |",
+          "|---------------------------------------------------|",
+          "|                                             \\     |",
+          "|                                               v   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "35. ANIM: COMETA FUGAR",
+      "frameDelay": 80,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|*                                                  |",
+          "|                                                   |",
+          "|                                                   |",
           "|                                                   |",
           "|                                                   |",
           "+---------------------------------------------------+"
@@ -271,64 +1535,436 @@
         [
           "+---------------------------------------------------+",
           "|                                                   |",
-          "|                       _______                     |",
-          "|                      (   .   )                    |",
-          "|                       _______                     |",
+          "|   .-=*                                            |",
+          "|                                                   |",
+          "|                                                   |",
           "|                                                   |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|                  _____________                    |",
-          "|                 |             |                   |",
-          "|                 |   (  :  )   |                   |",
-          "|                 |_____________|                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "|         .-=*                                      |",
+          "|                                                   |",
           "|                                                   |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|              _______________________              |",
-          "|             |                       |             |",
-          "|             |      [   #   ]        |             |",
-          "|             |_______________________|             |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "|               .-=*                                |",
           "|                                                   |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|          _________________________________        |",
-          "|         |                                 |       |",
-          "|         |           /===\\====\\            |       |",
-          "|         |_________________________________|       |",
+          "|                     .-=*                          |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
           "|                                                   |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|          _________________________________        |",
-          "|         |                                 |       |",
-          "|         |           \\====/====/            |       |",
-          "|         |_________________________________|       |",
+          "|                                                   |",
+          "|                           .-=*                    |",
+          "|                                                   |",
+          "|                                                   |",
           "|                                                   |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|              _______________________              |",
-          "|             |                       |             |",
-          "|             |      [   #   ]        |             |",
-          "|             |_______________________|             |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                 .-=*              |",
+          "|                                                   |",
           "|                                                   |",
           "+---------------------------------------------------+"
         ],
         [
           "+---------------------------------------------------+",
-          "|                  _____________                    |",
-          "|                 |             |                   |",
-          "|                 |   (  :  )   |                   |",
-          "|                 |_____________|                   |",
           "|                                                   |",
+          "|                                                   |",
+          "|                                                   |",
+          "|                                       .-=*        |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "36. ANIM: PENDULO FISICO",
+      "frameDelay": 100,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                         \\                         |",
+          "|                          \\                        |",
+          "|                           \\                       |",
+          "|                            \\                      |",
+          "|                             (O)                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                          \\                        |",
+          "|                           \\                       |",
+          "|                            \\                      |",
+          "|                             \\                     |",
+          "|                              (O)                  |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                           |                       |",
+          "|                           |                       |",
+          "|                           |                       |",
+          "|                           |                       |",
+          "|                          (O)                      |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                          /                        |",
+          "|                         /                         |",
+          "|                        /                          |",
+          "|                       /                           |",
+          "|                      (O)                          |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                         /                         |",
+          "|                        /                          |",
+          "|                       /                           |",
+          "|                      /                            |",
+          "|                     (O)                           |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                          /                        |",
+          "|                         /                         |",
+          "|                        /                          |",
+          "|                       /                           |",
+          "|                      (O)                          |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                           |                       |",
+          "|                           |                       |",
+          "|                           |                       |",
+          "|                           |                       |",
+          "|                          (O)                      |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                          \\                        |",
+          "|                           \\                       |",
+          "|                            \\                      |",
+          "|                             \\                     |",
+          "|                              (O)                  |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "37. ANIM: CARGADOR BINARIO",
+      "frameDelay": 120,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|         SISTEMA DE PROCESAMIENTO QUANTICO         |",
+          "|          ESTADO REPOSITORIO: [ 00000000 ]         |",
+          "|          CALIBRANDO SENSORES ESTELARES...         |",
+          "|              PROGRESO: [        ] 0%              |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|         SISTEMA DE PROCESAMIENTO QUANTICO         |",
+          "|          ESTADO REPOSITORIO: [ 00000001 ]         |",
+          "|          CALIBRANDO SENSORES ESTELARES...         |",
+          "|              PROGRESO: [=       ] 14%             |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|         SISTEMA DE PROCESAMIENTO QUANTICO         |",
+          "|          ESTADO REPOSITORIO: [ 00000010 ]         |",
+          "|          CALIBRANDO SENSORES ESTELARES...         |",
+          "|              PROGRESO: [==      ] 28%             |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|         SISTEMA DE PROCESAMIENTO QUANTICO         |",
+          "|          ESTADO REPOSITORIO: [ 00000011 ]         |",
+          "|          CALIBRANDO SENSORES ESTELARES...         |",
+          "|              PROGRESO: [===     ] 42%             |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|         SISTEMA DE PROCESAMIENTO QUANTICO         |",
+          "|          ESTADO REPOSITORIO: [ 00000100 ]         |",
+          "|          CALIBRANDO SENSORES ESTELARES...         |",
+          "|              PROGRESO: [====    ] 57%             |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|         SISTEMA DE PROCESAMIENTO QUANTICO         |",
+          "|          ESTADO REPOSITORIO: [ 00000101 ]         |",
+          "|          CALIBRANDO SENSORES ESTELARES...         |",
+          "|              PROGRESO: [=====   ] 71%             |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|         SISTEMA DE PROCESAMIENTO QUANTICO         |",
+          "|          ESTADO REPOSITORIO: [ 00000110 ]         |",
+          "|          CALIBRANDO SENSORES ESTELARES...         |",
+          "|              PROGRESO: [======  ] 85%             |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|         SISTEMA DE PROCESAMIENTO QUANTICO         |",
+          "|          ESTADO REPOSITORIO: [ 00000111 ]         |",
+          "|          CALIBRANDO SENSORES ESTELARES...         |",
+          "|             PROGRESO: [======= ] 100%             |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "38. ANIM: ESPIRAL GALACTICA PULSANTE",
+      "frameDelay": 110,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                         .                         |",
+          "|                         .                         |",
+          "|                         .                         |",
+          "|                         .                         |",
+          "|                         .                         |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                         *                         |",
+          "|                        *O*                        |",
+          "|                         *                         |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                        / \\                        |",
+          "|                       ( O )                       |",
+          "|                        \\ /                        |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                       /===\\                       |",
+          "|                      | (O) |                      |",
+          "|                       \\===/                       |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                      /=====\\                      |",
+          "|                     <  (O)  >                     |",
+          "|                      \\=====/                      |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                       /===\\                       |",
+          "|                      | (O) |                      |",
+          "|                       \\===/                       |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "39. ANIM: PAC-MAN COSMICO",
+      "frameDelay": 100,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|  C  .    .    .    .    .    .    .    .    .     |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|     .  ( .    .    .    .    .    .    .    .     |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|     .    .   C.    .    .    .    .    .    .     |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|     .    .    .    (    .    .    .    .    .     |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|     .    .    .    .    .C   .    .    .    .     |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|     .    .    .    .    .    . (  .    .    .     |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|     .    .    .    .    .    .    .  C .    .     |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                                   |",
+          "|                                                   |",
+          "|     .    .    .    .    .    .    .    .   (.     |",
+          "|                                                   |",
+          "|                                                   |",
+          "+---------------------------------------------------+"
+        ]
+      ]
+    },
+    {
+      "titulo": "40. ANIM: DETECTOR DE PARTICULAS",
+      "frameDelay": 90,
+      "frames": [
+        [
+          "+---------------------------------------------------+",
+          "|*                                       +          |",
+          "|                        +                          |",
+          "|  [D]   +                                          |",
+          "|                                *                  |",
+          "|                *                                  |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                       *                           |",
+          "|       *                                       +   |",
+          "|  [D]                          +                   |",
+          "|               +                                   |",
+          "|                                       *           |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                                              *    |",
+          "|                              *                    |",
+          "|  [D]         *                                    |",
+          "|                                      +            |",
+          "|                      +                            |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                             +                     |",
+          "|  *                                                |",
+          "|  [D]                                *             |",
+          "|          +          *                             |",
+          "|                                             +     |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "| +                                                 |",
+          "|                                    +              |",
+          "|  [D]    *                                         |",
+          "|                                            *      |",
+          "|                 +          *                      |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                        +          *               |",
+          "|        +                                          |",
+          "|  [D]                                      +       |",
+          "|                *                                  |",
+          "|*                                                  |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|       *                                           |",
+          "|                               +          *        |",
+          "|  [D]          +                                   |",
+          "|                                                  +|",
+          "|                       *                           |",
+          "+---------------------------------------------------+"
+        ],
+        [
+          "+---------------------------------------------------+",
+          "|                              *                    |",
+          "|              *                                    |",
+          "|  [D]                                 +          * |",
+          "|                      +                            |",
+          "|      +                                            |",
           "+---------------------------------------------------+"
         ]
       ]

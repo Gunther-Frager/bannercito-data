@@ -1,191 +1,214 @@
 {
-  "configuracion": {
-    "tiempo_pantalla_factor": 2.0,
-    "efecto_escritura_activado": true,
-    "estilo_titulos": {
-      "incluir_numeracion": false
-    }
-  },
-  "items": [
-    {
-      "id": 1,
-      "titulo": "Introducción al Proyecto",
-      "texto": "Bienvenidos a la presentación. Hoy analizaremos los avances clave del sistema.",
-      "duracion_segundos": 10,
-      "animacion_entrada": "fade_in",
-      "animacion_salida": "fade_out",
-      "animacion_intercalada": "glitch_suave"
+  "lote": {
+    "configuracion_global": {
+      "tiempo_pantalla_multiplicador": 2.0,
+      "unidades_tiempo": "segundos"
     },
-    {
-      "id": 2,
-      "titulo": "Arquitectura General",
-      "texto": "La estructura está diseñada para escalar de forma modular y eficiente.",
-      "duracion_segundos": 12,
-      "animacion_entrada": "slide_left",
-      "animacion_salida": "slide_right",
-      "animacion_intercalada": "zoom_in_bounce"
-    },
-    {
-      "id": 3,
-      "titulo": "Procesamiento de Datos",
-      "texto": "Los flujos de información se reciben y filtran en tiempo real.",
-      "duracion_segundos": 10,
-      "animacion_entrada": "zoom_in",
-      "animacion_salida": "zoom_out",
-      "animacion_intercalada": "particulas_flotantes"
-    },
-    {
-      "id": 4,
-      "titulo": "Seguridad y Cifrado",
-      "texto": "Implementamos protocolos avanzados para proteger la privacidad de los usuarios.",
-      "duracion_segundos": 14,
-      "animacion_entrada": "wipe_down",
-      "animacion_salida": "wipe_up",
-      "animacion_intercalada": "escaneo_laser"
-    },
-    {
-      "id": 5,
-      "titulo": "Rendimiento y Optimización",
-      "texto": "Se redujeron los tiempos de respuesta a menos de la mitad en el último trimestre.",
-      "duracion_segundos": 12,
-      "animacion_entrada": "typewriter_appear",
-      "animacion_salida": "fade_out",
-      "animacion_intercalada": "pulso_neon"
-    },
-    {
-      "id": 6,
-      "titulo": "Manejo de Memoria",
-      "texto": "Asignación dinámica optimizada para minimizar fugas de recursos.",
-      "duracion_segundos": 10,
-      "animacion_entrada": "fade_in",
-      "animacion_salida": "slide_down",
-      "animacion_intercalada": "desplazamiento_matriz"
-    },
-    {
-      "id": 7,
-      "titulo": "Conexiones de Red",
-      "texto": "Mantenimiento de sockets persistentes para asegurar baja latencia.",
-      "duracion_segundos": 12,
-      "animacion_entrada": "flip_x",
-      "animacion_salida": "flip_y",
-      "animacion_intercalada": "ondas_concentricas"
-    },
-    {
-      "id": 8,
-      "titulo": "Interfaz de Usuario",
-      "texto": "Un diseño intuitivo enfocado en la usabilidad y accesibilidad constante.",
-      "duracion_segundos": 10,
-      "animacion_entrada": "slide_up",
-      "animacion_salida": "fade_out",
-      "animacion_intercalada": "desenfoque_progresivo"
-    },
-    {
-      "id": 9,
-      "titulo": "Sincronización en la Nube",
-      "texto": "Respaldos automáticos ejecutados en segundo plano sin interrumpir tareas.",
-      "duracion_segundos": 12,
-      "animacion_entrada": "zoom_in",
-      "animacion_salida": "slide_right",
-      "animacion_intercalada": "destello_camara"
-    },
-    {
-      "id": 10,
-      "titulo": "Gestión de Errores",
-      "texto": "Registro centralizado de excepciones con alertas automáticas para los administradores.",
-      "duracion_segundos": 14,
-      "animacion_entrada": "bounce_in",
-      "animacion_salida": "bounce_out",
-      "animacion_intercalada": "vibracion_pantalla"
-    },
-    {
-      "id": 11,
-      "titulo": "Pruebas Automatizadas",
-      "texto": "Cobertura integral con pruebas unitarias e integración continua.",
-      "duracion_segundos": 10,
-      "animacion_entrada": "fade_in",
-      "animacion_salida": "wipe_left",
-      "animacion_intercalada": "barrido_horizontal"
-    },
-    {
-      "id": 12,
-      "titulo": "Escalabilidad Horizontal",
-      "texto": "Capacidad de añadir nodos de forma transparente según la demanda.",
-      "duracion_segundos": 12,
-      "animacion_entrada": "slide_left",
-      "animacion_salida": "fade_out",
-      "animacion_intercalada": "rotacion_3d"
-    },
-    {
-      "id": 13,
-      "titulo": "Análisis Estadístico",
-      "texto": "Métricas detalladas sobre la interacción del usuario e hitos del sistema.",
-      "duracion_segundos": 10,
-      "animacion_entrada": "typewriter_appear",
-      "animacion_salida": "slide_down",
-      "animacion_intercalada": "grafico_creciente"
-    },
-    {
-      "id": 14,
-      "titulo": "Soporte Multiidioma",
-      "texto": "Localización dinámica para adaptar contenidos a diversas regiones.",
-      "duracion_segundos": 10,
-      "animacion_entrada": "flip_y",
-      "animacion_salida": "zoom_out",
-      "animacion_intercalada": "transicion_persiana"
-    },
-    {
-      "id": 15,
-      "titulo": "Control de Versiones",
-      "texto": "Historial detallado para revertir cambios o auditar transformaciones.",
-      "duracion_segundos": 10,
-      "animacion_entrada": "slide_up",
-      "animacion_salida": "wipe_up",
-      "animacion_intercalada": "linea_de_tiempo"
-    },
-    {
-      "id": 16,
-      "titulo": "Exportación de Reportes",
-      "texto": "Generación instantánea de archivos en múltiples formatos estandarizados.",
-      "duracion_segundos": 12,
-      "animacion_entrada": "zoom_in",
-      "animacion_salida": "fade_out",
-      "animacion_intercalada": "despliegue_mosaico"
-    },
-    {
-      "id": 17,
-      "titulo": "Notificaciones en Tiempo Real",
-      "texto": "Envío inmediato de alertas relevantes según preferencias del usuario.",
-      "duracion_segundos": 10,
-      "animacion_entrada": "bounce_in",
-      "animacion_salida": "slide_right",
-      "animacion_intercalada": "pop_up_emergente"
-    },
-    {
-      "id": 18,
-      "titulo": "Integración API",
-      "texto": "Conexión fluida con servicios de terceros mediante endpoints REST y GraphQL.",
-      "duracion_segundos": 12,
-      "animacion_entrada": "fade_in",
-      "animacion_salida": "zoom_out",
-      "animacion_intercalada": "conexion_nodos"
-    },
-    {
-      "id": 19,
-      "titulo": "Mantenimiento Programado",
-      "texto": "Rutinas nocturnas para verificar la integridad del almacenamiento.",
-      "duracion_segundos": 10,
-      "animacion_entrada": "slide_left",
-      "animacion_salida": "slide_left",
-      "animacion_intercalada": "reloj_arena"
-    },
-    {
-      "id": 20,
-      "titulo": "Conclusión",
-      "texto": "El sistema está listo para operar con alta disponibilidad y resiliencia.",
-      "duracion_segundos": 14,
-      "animacion_entrada": "zoom_in",
-      "animacion_salida": "fade_out",
-      "animacion_intercalada": "fuegos_artificiales"
-    }
-  ]
+    "elementos": [
+      {
+        "tipo": "texto",
+        "contenido": "Bienvenido al sistema",
+        "duracion": 10,
+        "estilo": {
+          "efecto": "escritura_mecanografica",
+          "velocidad_caracter_ms": 50
+        }
+      },
+      {
+        "tipo": "animacion",
+        "nombre": "Entrada Suave",
+        "duracion": 4,
+        "propiedades": {
+          "tipo_transicion": "fade_in",
+          "curva": "ease-in-out"
+        }
+      },
+      {
+        "tipo": "texto",
+        "contenido": "Cargando datos del usuario...",
+        "duracion": 8,
+        "estilo": {
+          "efecto": "escritura_mecanografica",
+          "velocidad_caracter_ms": 40
+        }
+      },
+      {
+        "tipo": "texto",
+        "contenido": "Conexión establecida con éxito",
+        "duracion": 8,
+        "estilo": {
+          "efecto": "estatico"
+        }
+      },
+      {
+        "tipo": "animacion",
+        "nombre": "Desplazamiento Lateral",
+        "duracion": 6,
+        "propiedades": {
+          "direccion": "izquierda_a_derecha",
+          "distancia_px": 300
+        }
+      },
+      {
+        "tipo": "animacion",
+        "nombre": "Escala y Rebote",
+        "duracion": 5,
+        "propiedades": {
+          "escala_inicial": 0.5,
+          "escala_final": 1.0,
+          "efecto_rebote": true
+        }
+      },
+      {
+        "tipo": "texto",
+        "contenido": "Sincronizando archivos pendientes",
+        "duracion": 12,
+        "estilo": {
+          "efecto": "escritura_mecanografica",
+          "velocidad_caracter_ms": 60
+        }
+      },
+      {
+        "tipo": "animacion",
+        "nombre": "Giro 360",
+        "duracion": 4,
+        "propiedades": {
+          "eje": "Z",
+          "grados": 360
+        }
+      },
+      {
+        "tipo": "texto",
+        "contenido": "Análisis finalizado sin errores",
+        "duracion": 10,
+        "estilo": {
+          "efecto": "estatico"
+        }
+      },
+      {
+        "tipo": "texto",
+        "contenido": "Generando reporte de rendimiento",
+        "duracion": 10,
+        "estilo": {
+          "efecto": "escritura_mecanografica",
+          "velocidad_caracter_ms": 45
+        }
+      },
+      {
+        "tipo": "animacion",
+        "nombre": "Parpadeo de Alerta",
+        "duracion": 6,
+        "propiedades": {
+          "frecuencia_hz": 2,
+          "color_secundario": "#FF0000"
+        }
+      },
+      {
+        "tipo": "texto",
+        "contenido": "Guardando cambios en el servidor",
+        "duracion": 8,
+        "estilo": {
+          "efecto": "estatico"
+        }
+      },
+      {
+        "tipo": "animacion",
+        "nombre": "Disolución Salida",
+        "duracion": 4,
+        "propiedades": {
+          "tipo_transicion": "fade_out",
+          "curva": "ease-out"
+        }
+      },
+      {
+        "tipo": "animacion",
+        "nombre": "Ocurrencia Blur",
+        "duracion": 6,
+        "propiedades": {
+          "desenfoque_inicial_px": 10,
+          "desenfoque_final_px": 0
+        }
+      },
+      {
+        "tipo": "texto",
+        "contenido": "Optimizando la memoria cache",
+        "duracion": 10,
+        "estilo": {
+          "efecto": "escritura_mecanografica",
+          "velocidad_caracter_ms": 35
+        }
+      },
+      {
+        "tipo": "texto",
+        "contenido": "Verificando firmas digitales",
+        "duracion": 8,
+        "estilo": {
+          "efecto": "estatico"
+        }
+      },
+      {
+        "tipo": "animacion",
+        "nombre": "Desplazamiento Vertical Up",
+        "duracion": 6,
+        "propiedades": {
+          "direccion": "abajo_a_arriba",
+          "distancia_px": 200
+        }
+      },
+      {
+        "tipo": "texto",
+        "contenido": "Actualización completada correctamente",
+        "duracion": 12,
+        "estilo": {
+          "efecto": "escritura_mecanografica",
+          "velocidad_caracter_ms": 50
+        }
+      },
+      {
+        "tipo": "animacion",
+        "nombre": "Pulso Continuo",
+        "duracion": 8,
+        "propiedades": {
+          "escala_min": 0.95,
+          "escala_max": 1.05,
+          "repeticiones": 3
+        }
+      },
+      {
+        "tipo": "animacion",
+        "nombre": "Corte Diagonal",
+        "duracion": 4,
+        "propiedades": {
+          "angulo": 45,
+          "velocidad": "rapida"
+        }
+      },
+      {
+        "tipo": "texto",
+        "contenido": "Iniciando respaldo de seguridad",
+        "duracion": 10,
+        "estilo": {
+          "efecto": "escritura_mecanografica",
+          "velocidad_caracter_ms": 40
+        }
+      },
+      {
+        "tipo": "texto",
+        "contenido": "Proceso finalizado. Gracias por esperar.",
+        "duracion": 14,
+        "estilo": {
+          "efecto": "estatico"
+        }
+      },
+      {
+        "tipo": "animacion",
+        "nombre": "Cierre Final Fade",
+        "duracion": 6,
+        "propiedades": {
+          "tipo_transicion": "fade_out",
+          "color_fondo": "#000000"
+        }
+      }
+    ]
+  }
 }
